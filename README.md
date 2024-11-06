@@ -12,4 +12,4 @@ NTypeはSerifなフォントのため、それに併せて日本語では明朝�
 しかし、その明朝体は「NotoSerif CJK」が使われており「設定」内のUIに適しているとは言えない物でした(英語の箇所のみNTypeが適用される)。Nothing公式のコミュニティやフィードバックでもこの問題を出していますが、動く気配がまだありません。そこで非公式な方法にはなりますが、Magiskモジュールを使ってフォントを置き換えることでUIと調和する明朝体に変更する、Bye-bye NotoSerifを作成しました。
 
 ## スペシャルサンクス
-@shibadogcap
+[柴犬被り(@shibadogcap)](https://github.com/shibadogcap)
