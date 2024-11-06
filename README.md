@@ -3,7 +3,7 @@ Nothing OS 3.0内の明朝体 (NotoSerif) を源雲明朝に置き換えます�
 ディレクトリ内部のフォントを他の明朝体に差し替えることで任意の明朝体に変更することもできます。
 
 ## 使用フォント
-[源雲明朝](https://github.com/ButTaiwan/genwan-font)
+[源雲明朝](https://github.com/ButTaiwan/genwan-font) [しっぽり明朝](https://fontdasu.com/shippori-mincho/) [ZENオールド明朝](https://github.com/googlefonts/zen-oldmincho)
 
 ## このモジュールをリリースした経緯について
 Nothing OS 3.0からシンボルとなるNdotフォント(ドットマトリクスなフォント)が設定内のヘッダーから廃止され、NTypeフォントに変更されました。
